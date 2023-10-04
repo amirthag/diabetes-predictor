@@ -10,7 +10,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 import seaborn as sns
 
-df = pd.read_csv(r'path of the csv file')
+df = pd.read_csv(r'diabetes2.csv(path of your csv file)')
 
 # HEADINGS
 st.title('Diabetes Checkup')
@@ -111,5 +111,5 @@ if user_result[0]==0:
 else:
   output = 'You are Diabetic'
   st.title(output)
-  myImage = Image.open("path of the downloaded image")
+  myImage = Image.open("diabetesdiet.jpeg(path of the downloaded image)")
   myImage.show()
