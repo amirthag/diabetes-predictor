@@ -15,3 +15,17 @@ dataset, it also gives dietary recommendations based on the prediction.
 ![image](https://github.com/amirthag/diabetes-predictor/assets/122242375/37ae7b4d-702f-41b7-a21a-6b5d1887f265)
 
 USER SCREEN : If the user slides the value, it loads the page and gives the output whether the patient is diabetic or not
+
+![image](https://github.com/amirthag/diabetes-predictor/assets/122242375/cd96bf8c-3849-48e1-9247-f296fb3e3960)
+
+ In this the user is predicted as diabetic so it recommends a diet chart. 
+
+ ![image](https://github.com/amirthag/diabetes-predictor/assets/122242375/f1a8666d-2518-4f20-8bf7-a2cf8c666b0b)
+
+ If the user clicks that button it opens a food dietary chart to improve their health. 
+
+ ![image](https://github.com/amirthag/diabetes-predictor/assets/122242375/a059cb54-a24f-49e9-96f4-d35aa98af130)
+
+![image](https://github.com/amirthag/diabetes-predictor/assets/122242375/1196143d-94ca-4785-b58f-b7821b1100b7)
+
+![image](https://github.com/amirthag/diabetes-predictor/assets/122242375/e15ee95c-c4cf-43a2-81ef-d38436a618a0)
