@@ -1,8 +1,5 @@
 # diabetes-predictor
-
-A Streamlit-based web application to predict diabetes status based
-on user-input health data and it compares the user's data with the
-dataset, it also gives dietary recommendations based on the prediction.
+Diabetes Prediction is a predicting model which has the necessary Python libraries, including Streamlit, Pandas, Matplotlib, Plotly, and Scikit-Learn. It loads a dataset (presumably containing diabetes-related data) using Pandas. We use Streamlit to create a user-friendly interface. It trains a Random Forest Classifier using the training data. This model is used to predict whether a user has diabetes based on their input data. The user can adjust five health parameters using sliders in the sidebar: Glucose, Blood Pressure, Insulin, BMI (Body Mass Index), and Age. These values are used to make predictions. The application provides visualizations of the user's data alongside the training data for comparison. It displays scatterplots that illustrate how the user's health parameters compare to the training data, differentiating between healthy and unhealthy (diabetic) outcomes. The code displays the accuracy of the machine learning model and provides a diagnostic result. It states whether the user is "Diabetic" or "Not Diabetic”. If the user is predicted to be diabetic, a button allows them to view a dietary recommendation by showing an image of a dietary chart.
 
 ![image](https://github.com/amirthag/diabetes-predictor/assets/122242375/b753de89-cdba-4c95-b03f-9d4617bb530a)
 
